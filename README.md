@@ -11,8 +11,7 @@ Installation
 ===
 You can download from this.
 
-<span style="font-size:2em">[Download](https://github.com/moschan/alfred-cage-workflow/archive/v1.0.zip)</span>
-
+[Download](https://github.com/moschan/alfred-cage-workflow/archive/v1.0.zip)
 
 Usage
 ===
@@ -21,9 +20,9 @@ Single param
 ---
 ![](./doc/demo_size_100.gif)
 
-Multi params
+Multiple params
 ---
-You can pass multi params. First param is width. Second param is Height.
+You can pass multiple params. First param is width. Second param is Height.
 ![](./doc/demo_size_100_200.gif)
 
 Open in Browser
@@ -31,7 +30,6 @@ Open in Browser
 You can open in browser directly. When you tap enter button, you hold ⌘(Comand) Button.
 
 ![](./doc/demo_open_in_browser.gif)
-http://www.placecage.com/200/200
 
 
 Credits
