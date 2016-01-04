@@ -4,6 +4,8 @@ Alfred-Cage-Workflow
 > Get the sizable, dynamic Image of Nicolas Cage using [PlaceCage](https://www.placecage.com/)  
 > It is useful for prototyping. Of course, you can use when you want to get the energy from him.
 
+![](./doc/hero.jpg)
+
 
 Installation
 ===
