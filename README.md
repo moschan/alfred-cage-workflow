@@ -9,7 +9,7 @@ Alfred-Cage-Workflow
 
 Installation
 ===
-You can download from this.
+You can download from here.
 
 [Download](https://github.com/moschan/alfred-cage-workflow/archive/v1.0.zip)
 
