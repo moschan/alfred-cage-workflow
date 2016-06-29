@@ -31,6 +31,9 @@ You can open in browser directly. When you tap enter button, you hold ⌘(Comand
 
 ![](./doc/demo_open_in_browser.gif)
 
+Contribution
+---
+Of course! Welcome :)
 
 Credits
 ===
